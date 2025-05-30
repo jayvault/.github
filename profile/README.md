@@ -1,7 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Jayden's%20Github&fontSize=48&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=JayVault.io&fontSize=48&fontAlignY=38" />
 
 ## 👨‍💻 About 
-- 
 
 <!-- 스택 -->
 ## 🥞 Stack
